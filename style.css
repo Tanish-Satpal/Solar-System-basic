@@ -1,0 +1,33 @@
+img{
+  width:260px;
+  height:250px;
+}
+body{
+  background-color:black;
+  text-align:center;
+}
+#Sun_image{
+  width:500px;
+    height:500px;
+}
+h1{
+  color:#B71C1C;
+}
+p{
+  color:#4FC3F7
+}
+h3{
+  color:#e85d04
+}
+#img-1{
+    height:100%;
+}
+h2{
+    color: aliceblue
+}
+h5{
+    color: darksalmon
+}
+h6{
+    color: chartreuse 
+}
